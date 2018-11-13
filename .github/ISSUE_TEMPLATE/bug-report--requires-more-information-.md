@@ -1,6 +1,6 @@
 ---
 name: Bug Report (Requires More Information)
-about: Bug report that should be logged, but lacks proper information
+about: Bug report that should be logged, but lacks information for a full report
 
 ---
 
