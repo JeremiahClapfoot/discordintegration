@@ -29,24 +29,17 @@ Point form notes
 ### Specs
 Item | Variable 
 ------------ | -------------
+World Structure | Yes
 Codename | 
+Display Name |
+Item Capacity |
 Health | 
-
-
-### Specs
-
-World Structure: yes
-Codename:
-Display Name:
-Description:
-Item Capacity:
-Health: <number>
-Full Damage from Radial Sources: <yes/no>
-Armor Component: <reference another structure>
-Resources Required:
-Requires CV: <yes/no>
-Decay: <yes/no>
-Team Owned: <yes/no>
-Blueprint Specs:
-Map Intel: <yes/no>
-Usable from Vehicle <yes/no>
+Full Damage from Radial Sources | <yes/no>
+Armor Component | <reference another structure>
+Resources Required |
+Requires CV | <yes/no>
+Decay | <yes/no>
+Team Owned | <yes/no>
+Blueprint Specs |
+Map Intel | <yes/no>
+Usable from Vehicle | <yes/no>
